@@ -1,0 +1,5 @@
+/Users/antonsplavnik/Documents/Programming/Projects/Calimero/calimero_x_icp_hackathon/src/app/random/target/app-release/build/borsh-d93e44be25cda488/build_script_build-d93e44be25cda488: /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.5/build.rs
+
+/Users/antonsplavnik/Documents/Programming/Projects/Calimero/calimero_x_icp_hackathon/src/app/random/target/app-release/build/borsh-d93e44be25cda488/build_script_build-d93e44be25cda488.d: /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.5/build.rs
+
+/Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-1.5.5/build.rs:

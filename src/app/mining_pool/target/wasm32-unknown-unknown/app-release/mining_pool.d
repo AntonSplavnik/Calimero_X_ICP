@@ -1,0 +1,1 @@
+/Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/mining_pool/target/wasm32-unknown-unknown/app-release/mining_pool.wasm: /Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/mining_pool/src/lib.rs

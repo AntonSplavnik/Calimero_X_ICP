@@ -1,0 +1,1 @@
+/Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/mining_pool/target/debug/libmining_pool.dylib: /Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/mining_pool/src/lib.rs

@@ -1,0 +1,1 @@
+/Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/chat/target/wasm32-unknown-unknown/app-release/chat.wasm: /Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/chat/src/lib.rs

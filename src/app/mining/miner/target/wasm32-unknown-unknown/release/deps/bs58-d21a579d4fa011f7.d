@@ -1,0 +1,10 @@
+/Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/miner/target/wasm32-unknown-unknown/release/deps/libbs58-d21a579d4fa011f7.rmeta: /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/lib.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/alphabet.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/decode.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/encode.rs
+
+/Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/miner/target/wasm32-unknown-unknown/release/deps/libbs58-d21a579d4fa011f7.rlib: /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/lib.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/alphabet.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/decode.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/encode.rs
+
+/Users/antonsplavnik/Documents/Projects/Calimero/calimero_x_icp_hackathon/basic_setup/context/miner/target/wasm32-unknown-unknown/release/deps/bs58-d21a579d4fa011f7.d: /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/lib.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/alphabet.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/decode.rs /Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/encode.rs
+
+/Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/lib.rs:
+/Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/alphabet.rs:
+/Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/decode.rs:
+/Users/antonsplavnik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.5.1/src/encode.rs:
