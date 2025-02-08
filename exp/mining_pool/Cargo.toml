@@ -1,5 +1,5 @@
 [package]
-name = "chat"
+name = "mining_pool"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,11 +8,10 @@ crate-type = ["cdylib"]
 
 [dependencies]
 borsh = "1.5.5"
+sha2 = "0.10"
+serde = { version = "1.0", features = ["derive"] }
 calimero-sdk = { git = "https://github.com/calimero-network/core" }
 calimero-storage = { git = "https://github.com/calimero-network/core" }
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
-
 
 [profile.app-release]
 inherits = "release"
